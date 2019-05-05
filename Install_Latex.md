@@ -43,5 +43,4 @@ Latex
 
 --- REFERENCES---
 [1] https://github.com/tiepvupsu/LearningLatex
-
 [2] https://dzone.com/articles/installing-latex-ubuntu
