@@ -53,6 +53,7 @@ templates_path = ['_templates']
 #
 source_suffix = ['.rst','.md']
 #source_suffix = '.rst'
+extensions = ['recommonmark']
 
 # The master toctree document.
 master_doc = ''
