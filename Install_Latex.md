@@ -5,13 +5,13 @@
 - Ubuntu: https://miktex.org/howto/install-miktex-unx
 
 ## 2. Install Editor:
-### 2.1. Tex maker(Recomment): http://www.xm1math.net/texmaker/
+### 2.1. Tex maker[(Recomment)](http://www.xm1math.net/texmaker/)
   + Windows: Download --> Install.
   + Linux: sudo apt-get install texmaker
 
-### 2.2. Sublimetext (Windows): https://www.sublimetext.com/3
+### 2.2. Sublimetext [(Windows)](https://www.sublimetext.com/3)
 ####  1. Download and Install Sublime Text.
-####  2. Install PDF Viewer : Summatra PDF (https://www.sumatrapdfreader.org/download-free-pdf-viewer.html)
+####  2. Install PDF Viewer : [Summatra PDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer.html)
 ####  3. Setting Sublime Text and Summatra PDF:
   - Add SumatraPDF to the path: http://economistry.com/2012/10/first-pdf-sublime-text-2-latex/
     - For Sublime to open SumatraPDF for you when you build your PDF, we need to add the PDF viewer to your path. 
@@ -24,30 +24,30 @@
     - For me, the path was “C:\Program Files (x86)\SumatraPDF”. 
     - Click “OK” to accept your changes.
 
-  - Install package control for Sublime (https://packagecontrol.io/installation#st3)
+  - Install package control for [Sublime](https://packagecontrol.io/installation#st3)
   - Inverse Search: In Summatra PDF, Open Settings/Options... from menu. Enter the following command into the box:
     "C:\Program Files\Sublime Text 3\sublime_text.exe" "%f:%l"
     
 ## 3. Resource for Latex:
 ###  * Write Latex Online:
-  - Overleaf (https://www.overleaf.com)
-  - ShareLatex: https://www.sharelatex.com/
+  - [Overleaf](https://www.overleaf.com)
+  - [ShareLatex](https://www.sharelatex.com/)
   
-  - Firgure for Latex: http://www.texample.net/tikz/examples/
-  - Tex stackechange: https://tex.stackexchange.com/
-  - Create table for latex(Tables Generator): http://www.tablesgenerator.com/
+  - [Firgure for Latex](http://www.texample.net/tikz/examples/)
+  - [Tex stackechange](https://tex.stackexchange.com/)
+  - [Create table for latex(Tables Generator)](http://www.tablesgenerator.com/)
  
 ## 4. Tutorial:
   - Latex tutorial with Vu Huu Tiep:
     + https://www.youtube.com/watch?v=_xR7eel_Q80&list=PLlsF2nDmyL7msihnebzII_KVWy6URxDfp&index=1
     + https://www.youtube.com/watch?v=y6IUHvzeyVI&index=3&list=PLlsF2nDmyL7msihnebzII_KVWy6URxDfp
   - https://www.latex-tutorial.com/tutorials/  
-  - Latex with TexMaker (Recomment): https://www.youtube.com/watch?v=SoDv0qhyysQ
+  - [Latex with TexMaker (Recomment)](https://www.youtube.com/watch?v=SoDv0qhyysQ)
   
 ## 5. Latex Template:
   - IEEE Conference Template: 
-    + https://www.ieee.org/conferences/publishing/templates.html
-    + https://www.overleaf.com/blog/ieee-templates-2014-05-13
+    - https://www.ieee.org/conferences/publishing/templates.html
+    - https://www.overleaf.com/blog/ieee-templates-2014-05-13
 
 ## --- REFERENCES---
 - [1] https://github.com/tiepvupsu/LearningLatex
