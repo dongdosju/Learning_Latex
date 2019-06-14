@@ -42,5 +42,5 @@
     + https://www.overleaf.com/blog/ieee-templates-2014-05-13
 
 ## --- REFERENCES---
-[1] https://github.com/tiepvupsu/LearningLatex
-[2] https://dzone.com/articles/installing-latex-ubuntu
+- [1] https://github.com/tiepvupsu/LearningLatex
+- [2] https://dzone.com/articles/installing-latex-ubuntu
