@@ -1,15 +1,15 @@
 # Latex 
 
-## 1. Install Compliers [( Miktex)](https://miktex.org/)
+## 1. Install Compliers [(Miktex)](https://miktex.org/)
 - Window: https://miktex.org/howto/install-miktex
 - Ubuntu: https://miktex.org/howto/install-miktex-unx
 
 ## 2. Install Editor:
-### 2.1. Tex maker[(Recomment)](http://www.xm1math.net/texmaker/)
+### 2.1. [Tex maker](http://www.xm1math.net/texmaker/)(Recomment)
   + Windows: Download --> Install.
   + Linux: sudo apt-get install texmaker
 
-### 2.2. Sublimetext [(Windows)](https://www.sublimetext.com/3)
+### 2.2. [Sublimetext](https://www.sublimetext.com/3)(Windows)
 ####  1. Download and Install Sublime Text.
 ####  2. Install PDF Viewer : [Summatra PDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer.html)
 ####  3. Setting Sublime Text and Summatra PDF:
