@@ -10,7 +10,7 @@ Welcome to Learning Latex's documentation!
    :maxdepth: 2
    :caption: Contents:
    
-   Install_Latex.m
+   Install_Latex.md 
 
 Indices and tables
 ==================
