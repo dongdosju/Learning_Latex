@@ -1,4 +1,9 @@
-# Install and Learn Latex 
+# Install and Learn Latex
+[![Documentation Status](https://readthedocs.org/projects/pip/badge/?version=stable)](http://pip.pypa.io/en/stable/?badge=stable)
+
+Documentation
+-------------
+Latest **documentation** is avaliable on [Read the Docs](https://learning-latex.readthedocs.io/en/latest/).
 
 ## 1. Install Compliers [(Miktex)](https://miktex.org/)
 - [Window](https://miktex.org/howto/install-miktex)
