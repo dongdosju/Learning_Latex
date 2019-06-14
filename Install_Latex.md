@@ -14,15 +14,15 @@
 ####  2. Install PDF Viewer : Summatra PDF (https://www.sumatrapdfreader.org/download-free-pdf-viewer.html)
 ####  3. Setting Sublime Text and Summatra PDF:
   - Add SumatraPDF to the path: http://economistry.com/2012/10/first-pdf-sublime-text-2-latex/
-   + For Sublime to open SumatraPDF for you when you build your PDF, we need to add the PDF viewer to your path. 
-   + Adding SumatraPDF to your path allows your programs to open SumatraPDF without having to know exactly where you installed it. To add SumatraPDF to your path, right-click Computer from the desktop or the Start menu. 
-   + Choose the “Properties” option. 
-   + Select “Advanced system settings” from the menu on the left. 
-   + Choose the “Advanced” tab and click the “Environmental Variables…” button near the bottom. 
-   + In the “System variables” section, click on the variable named “PATH” and click the “Edit…” button.
-   + Place your cursor at the end of the text in the “Variable value:” field, add a semicolon, “;”, and enter the path to SumatraPDF. 
-   + For me, the path was “C:\Program Files (x86)\SumatraPDF”. 
-   + Click “OK” to accept your changes.
+    - For Sublime to open SumatraPDF for you when you build your PDF, we need to add the PDF viewer to your path. 
+    - Adding SumatraPDF to your path allows your programs to open SumatraPDF without having to know exactly where you installed it. To add SumatraPDF to your path, right-click Computer from the desktop or the Start menu. 
+    - Choose the “Properties” option. 
+    -  Select “Advanced system settings” from the menu on the left. 
+    - Choose the “Advanced” tab and click the “Environmental Variables…” button near the bottom. 
+    - In the “System variables” section, click on the variable named “PATH” and click the “Edit…” button.
+    - Place your cursor at the end of the text in the “Variable value:” field, add a semicolon, “;”, and enter the path to SumatraPDF. 
+    - For me, the path was “C:\Program Files (x86)\SumatraPDF”. 
+    - Click “OK” to accept your changes.
 
   - Install package control for Sublime (https://packagecontrol.io/installation#st3)
   - Inverse Search: In Summatra PDF, Open Settings/Options... from menu. Enter the following command into the box:
