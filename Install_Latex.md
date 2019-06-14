@@ -1,4 +1,4 @@
-# Latex 
+# Install and Learn Latex 
 
 ## 1. Install Compliers [(Miktex)](https://miktex.org/)
 - [Window](https://miktex.org/howto/install-miktex)
