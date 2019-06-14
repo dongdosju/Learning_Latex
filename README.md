@@ -2,7 +2,7 @@
 
 Documentation
 -------------
-Latest **documentation** is avaliable on [Read the Docs]()
+Latest **documentation** is avaliable on Read the Docs.
 
 ## 1. Install Compliers [(Miktex)](https://miktex.org/)
 - [Window](https://miktex.org/howto/install-miktex)
