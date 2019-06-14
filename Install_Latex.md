@@ -42,16 +42,16 @@
  
 ## 4. Tutorial:
   - Latex tutorial with Vu Huu Tiep:
-    'https://www.youtube.com/watch?v=_xR7eel_Q80&list=PLlsF2nDmyL7msihnebzII_KVWy6URxDfp&index=1'
-    'https://www.youtube.com/watch?v=y6IUHvzeyVI&index=3&list=PLlsF2nDmyL7msihnebzII_KVWy6URxDfp'
+    https://www.youtube.com/watch?v=_xR7eel_Q80&list=PLlsF2nDmyL7msihnebzII_KVWy6URxDfp&index=1
+    https://www.youtube.com/watch?v=y6IUHvzeyVI&index=3&list=PLlsF2nDmyL7msihnebzII_KVWy6URxDfp
   - https://www.latex-tutorial.com/tutorials/  
   - [Latex with TexMaker (Recomment)](https://www.youtube.com/watch?v=SoDv0qhyysQ)
   
 ## 5. Latex Template:
   - IEEE Conference Template: 
-    'https://www.ieee.org/conferences/publishing/templates.html'
-    'https://www.overleaf.com/blog/ieee-templates-2014-05-13'
+    https://www.ieee.org/conferences/publishing/templates.html
+    https://www.overleaf.com/blog/ieee-templates-2014-05-13
 
 ## --- REFERENCES---
-'[1] https://github.com/tiepvupsu/LearningLatex'
-'[2] https://dzone.com/articles/installing-latex-ubuntu'
+[1] https://github.com/tiepvupsu/LearningLatex
+[2] https://dzone.com/articles/installing-latex-ubuntu
